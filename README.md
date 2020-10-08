@@ -18,6 +18,8 @@ Next step for this project will be to change the file names accordingly and star
 
 
 ## Contributing
+This Project is based on the [Deno Crash Course](https://youtu.be/NHHhiqwcfRM) made by Traversy Media on YouTube
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
