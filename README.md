@@ -1,4 +1,4 @@
-# A Deno REST API Starter
+# A Deno REST api Starter
 
 A starter project for a basic Deno rest api.
 
@@ -6,7 +6,7 @@ The project folder has an example for an entity by using a Product entity.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use git to clone this repository and save your setup time for your next REST api.
 
 ```git
 git clone https://github.com/YovelBecker/deno-rest-api.git
